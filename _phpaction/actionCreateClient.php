@@ -69,4 +69,5 @@ if(mysqli_query($connect, $sql)){
     header('Location: ../paginas/listClients.php');
 }
 
+echo "Teste para o git";
 ?>
